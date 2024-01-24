@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jalol</h1>
-<h3 align="center">A passionate Full-stack developer from Uzbekistan</h3>
+<h3 align="center">A passionate client/server-side developer.</h3>
+<p align="center">More then 2 year commercial experience with typescript and javascript, a year commercial experience with Laravel (LAMP stack). Proficient in react, vue, Next js, express js and other libraries. Enjoys setting up server and configuration production apps. Big interests to system designing and architechtures.</p> 
 
 - 📫 How to reach me **mirislomovmirjalol@gmail.com**
-
-- ⚡ Fun fact **I'm bad on Windows OS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
