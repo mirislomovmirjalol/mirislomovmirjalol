@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jalol</h1>
-<h3 align="center">A passionate client/server-side developer.</h3>
+# Hey, I'm Jalol Mirislomov
 
-- 📫 How to reach me **mirislomovmirjalol@gmail.com**
+I’m a **product engineer** who crafts secure softwares that *look good* and *work better*. I live for building intuitive **frontend** interfaces and **cross platform mobile** apps. My skills in **backend** services with databases like **PostgreSQL**, **Redis**, and **MongoDB**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jalol-mirislomov-5b235a1a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalol-mirislomov-5b235a1a5" height="30" width="40" /></a>
-</p>
+### My Journey
+- **Now**: 
+  - **Billz.io**: L3 Tech Support Engineer, solving client problems.
+  - **Yamoratti**: IT Director, making tech strategies.
+- **Before**:
+  - **Sitetrace**: Product Engineer, shipped SaaS to prod with increadible team.
+  - **Cambridge University (IFM)**: Software Engineer Intern, coded with PhD students.
+
+Let’s build something *epic* together
+
+[LinkedIn](https://www.linkedin.com/in/jalol-mirislomov-5b235a1a5/) | [Email](mailto:mirislomovmirjalol@gmail.com) 
