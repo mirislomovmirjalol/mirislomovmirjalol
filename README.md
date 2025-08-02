@@ -10,6 +10,6 @@ I’m a **product engineer** who crafts secure softwares that *look good* and *w
   - **Sitetrace**: Product Engineer, shipped SaaS to prod with increadible team.
   - **Cambridge University (IFM)**: Software Engineer Intern, coded with PhD students.
 
-Let’s build something *epic* together
+Let’s build something awesome together
 
 [LinkedIn](https://www.linkedin.com/in/jalol-mirislomov-5b235a1a5/) | [Email](mailto:mirislomovmirjalol@gmail.com) 
