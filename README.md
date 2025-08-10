@@ -1,6 +1,6 @@
 # Hey, I'm Jalol Mirislomov
 
-I’m a **product engineer** who crafts secure softwares that *look good* and *work better*. I live for building intuitive **frontend** interfaces and **cross platform mobile** apps. My skills in **backend** services with databases like **PostgreSQL**, **Redis**, and **MongoDB**
+I’m a **product engineer** who crafts secure softwares that *look good* and *work better*.
 
 ### My Journey
 - **Now**: 
