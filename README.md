@@ -4,11 +4,11 @@ I’m a **product engineer** who crafts secure softwares that *look good* and *w
 
 ### My Journey
 - **Now**: 
-  - **Billz.io**: L3 Tech Support Engineer, solving client problems.
   - **Yamoratti**: IT Director, making tech strategies.
 - **Before**:
   - **Sitetrace**: Product Engineer, shipped SaaS to prod with increadible team.
   - **Cambridge University (IFM)**: Software Engineer Intern, coded with PhD students.
+  - **Billz.io**: L3 Tech Support Engineer, solving client problems.
 
 Let’s build something awesome together
 
